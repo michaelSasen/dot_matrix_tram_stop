@@ -42,6 +42,6 @@ try:
                 refresh_due = False
             x = device.width
 
-        time.sleep(0.014)
+        time.sleep(0.015)
 except KeyboardInterrupt:
     pass
